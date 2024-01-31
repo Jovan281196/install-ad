@@ -1,4 +1,4 @@
-![image](https://github.com/itnatepena/install-ad/assets/147539410/5b97511d-7550-48c8-aca5-949d6097c8e2)
+![image](https://github.com/Jovan281196/install-ad/assets/147539410/5b97511d-7550-48c8-aca5-949d6097c8e2)
 
 
 <h1>Deploying Active Directory in Azure</h1>
